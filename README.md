@@ -4,7 +4,7 @@
 
 **TOTP Authenticator** – 2FA codes on your wrist.
 
-A secure and lightweight app for HarmonyOS NEXT Wearable.
+A secure and lightweight app for HarmonyOS Wearable.
 It generates time-based one-time passwords (TOTP) for two-factor authentication, working fully offline and supporting
 popular services like Huawei, Google, Microsoft, and GitHub.
 
